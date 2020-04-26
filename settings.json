@@ -1,0 +1,130 @@
+{
+  "git.confirmSync": false,
+  "git.enableSmartCommit": true,
+  "editor.rulers": [80],
+  "window.zoomLevel": 0,
+  "editor.snippetSuggestions": "top",
+  "java.configuration.checkProjectSettingsExclusions": false,
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "python.jediEnabled": false,
+  "python.linting.pylintEnabled": true,
+  "C_Cpp.updateChannel": "Insiders",
+  "latex-workshop.view.pdf.viewer": "tab",
+  "workbench.colorTheme": "Material Theme Darker High Contrast",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.tokenColorCustomizations": {
+    "comments": "#98FB98",
+    "textMateRules": [
+      {
+        "scope": "punctuation.definition.comment.html",
+        "settings": {
+          "foreground": "#98FB98"
+        }
+      },
+      {
+        "scope": "punctuation.definition.comment.java",
+        "settings": {
+          "foreground": "#98FB98"
+        }
+      },
+      {
+        "scope": "punctuation.definition.comment.js",
+        "settings": {
+          "foreground": "#98FB98"
+        }
+      },
+      {
+        "scope": "punctuation.definition.comment.python",
+        "settings": {
+          "foreground": "#98FB98"
+        }
+      },
+      {
+        "scope": "comment.block.documentation",
+        "settings": {
+          "foreground": "#98FB98"
+        }
+      },
+      {
+        "scope": "string.quoted.docstring.multi.python",
+        "settings": {
+          "foreground": "#98FB98"
+        }
+      },
+      {
+        "scope": "meta.function-call.arguments.python",
+        "settings": {
+          "foreground": "#FFFFFF"
+        }
+      },
+      {
+        "scope": "meta.function-call.generic.python",
+        "settings": {
+          "foreground": "#ffcb6bff"
+        }
+      },
+      {
+        "scope": "source.python",
+        "settings": {
+          "foreground": "#f4f4f4"
+        }
+      },
+      {
+        "scope": "text.html.markdown",
+        "settings": {
+          "foreground": "#f4f4f4"
+        }
+      }
+    ]
+  },
+  "workbench.colorCustomizations": {
+    "editor.foreground": "#f4f4f4",
+    "activityBarBadge.background": "#388E3C",
+    "list.activeSelectionForeground": "#388E3C",
+    "list.inactiveSelectionForeground": "#388E3C",
+    "list.highlightForeground": "#388E3C",
+    "scrollbarSlider.activeBackground": "#388E3C50",
+    "editorSuggestWidget.highlightForeground": "#388E3C",
+    "textLink.foreground": "#388E3C",
+    "progressBar.background": "#388E3C",
+    "pickerGroup.foreground": "#388E3C",
+    "tab.activeBorder": "#388E3C",
+    "notificationLink.foreground": "#388E3C",
+    "editorWidget.resizeBorder": "#388E3C",
+    "editorWidget.border": "#388E3C",
+    "settings.modifiedItemIndicator": "#388E3C",
+    "settings.headerForeground": "#388E3C",
+    "panelTitle.activeBorder": "#388E3C",
+    "breadcrumb.activeSelectionForeground": "#388E3C",
+    "menu.selectionForeground": "#388E3C",
+    "menubar.selectionForeground": "#388E3C",
+    "sideBar.foreground": "#f4f4f4",
+    "sideBarSectionHeader.foreground": "#f4f4f4"
+  },
+  "materialTheme.accent": "Breaking Bad",
+  // "editor.formatOnSave": true,
+  "[latex]": {
+    "editor.wordWrap": "on"
+  },
+  "[javascript]": {
+    "editor.wordWrap": "on"
+  },
+  "[markdown]": {
+    "editor.wordWrap": "on",
+    "editor.quickSuggestions": false
+  },
+  "zenMode.centerLayout": false,
+  "zenMode.hideLineNumbers": false,
+  "zenMode.hideTabs": false,
+  "java.errors.incompleteClasspath.severity": "ignore",
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.startupEditor": "welcomePage",
+  "terminal.integrated.inheritEnv": false,
+  "todo-tree.highlights.enabled": true,
+  "breadcrumbs.enabled": true,
+  "todo-tree.tree.showScanModeButton": false
+}
+
